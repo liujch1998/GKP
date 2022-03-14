@@ -1,0 +1,19 @@
+Generate some knowledge about the input. Examples:
+
+Input: What type of water formation is formed by clouds?
+Knowledge: Clouds are made of water vapor.
+
+Input: What can prevent food spoilage?
+Knowledge: Dehydrating food is used for preserving food.
+
+Input: The process by which genes are passed is
+Knowledge: Genes are passed from parent to offspring.
+
+Input: The stomach does what in the body?
+Knowledge: The stomach is part of the digestive system.
+
+Input: What can cause rocks to break down?
+Knowledge: Mechanical weathering is when rocks are broken down by mechanical means.
+
+Input: {question}
+Knowledge:

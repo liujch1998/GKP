@@ -1,0 +1,19 @@
+Generate some numerical facts about objects. Examples:
+
+Input: penguins have <mask> wings.
+Knowledge: Birds have two wings. Penguin is a kind of bird.
+
+Input: a parallelogram has <mask> sides.
+Knowledge: A rectangular is a parallelogram. A square is a parallelogram.
+
+Input: there are <mask> feet in a yard.
+Knowledge: A yard is three feet.
+
+Input: water can exist in <mask> states.
+Knowledge: There states for matter are solid, liquid, and gas.
+
+Input: a typical human being has <mask> limbs.
+Knowledge: Human has two arms and two legs.
+
+Input: {question}
+Knowledge:

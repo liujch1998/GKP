@@ -1,0 +1,19 @@
+Generate some knowledge about the concepts in the input. Examples:
+
+Input: Google Maps and other highway and street GPS services have replaced what?
+Knowledge: Electronic maps are the modern version of paper atlas.
+
+Input: The fox walked from the city into the forest, what was it looking for?
+Knowledge: Natural habitats are usually away from cities.
+
+Input: You can share files with someone if you have a connection to a what?
+Knowledge: Files can be shared over the Internet.
+
+Input: Too many people want exotic snakes.  The demand is driving what to carry them?
+Knowledge: Some people raise snakes as pets.
+
+Input: The body guard was good at his duties, he made the person who hired him what?
+Knowledge: The job of body guards is to ensure the safety and security of the employer.
+
+Input: {question}
+Knowledge:

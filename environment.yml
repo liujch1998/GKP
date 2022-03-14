@@ -1,0 +1,12 @@
+name: gkp
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pytorch=1.8.0
+  - transformers=4.9.1
+  - openai
+  - numpy
+  - pandas
+  - tqdm

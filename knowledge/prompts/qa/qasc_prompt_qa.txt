@@ -1,0 +1,19 @@
+Answer the question in the input. Examples:
+
+Input: What type of water formation is formed by clouds?
+Answer: beads
+
+Input: What can prevent food spoilage?
+Answer: dehydrating food
+
+Input: The process by which genes are passed is
+Answer: reproduction
+
+Input: The stomach does what in the body?
+Answer: breaks food into nutrients
+
+Input: What can cause rocks to break down?
+Answer: Water
+
+Input: {question}
+Answer:

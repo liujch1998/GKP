@@ -1,0 +1,1935 @@
+[
+    {
+        "query": "you may take the subway back and forth to work <mask> days a week.",
+        "answer": "five",
+        "knowledges": [
+            "A week is seven days.",
+            "Subway is a form of transportation.",
+            "You may take the subway to work on Monday, Tuesday, Wednesday, Thursday, and Friday.",
+            "You may take the subway to work every day.",
+            "You may take the subway to work five days a week.",
+            "You take the subway to work on Monday, Tuesday, Wednesday, and Friday.",
+            "You take the subway back and forth to work five days a week.",
+            "You take the subway back and forth to work 5 days a week.",
+            "Subway is a form of transportation. A week is a period of time.",
+            "You take the subway to work every day.",
+            "You may take the subway back and forth to work five days a week.",
+            "Subway is a kind of transportation."
+        ]
+    },
+    {
+        "query": "a <mask> door car has four entrances for passengers to enter.",
+        "answer": "four",
+        "knowledges": [
+            "A bus has four doors.",
+            "A sedan is a door car.",
+            "A car has four doors.",
+            "A limousine has four doors."
+        ]
+    },
+    {
+        "query": "the word children means <mask> or more kids.",
+        "answer": "two",
+        "knowledges": [
+            "Children is a plural word.",
+            "Children is plural.",
+            "The word child means one kid.",
+            "Children is a plural noun."
+        ]
+    },
+    {
+        "query": "each human hand almost always contains <mask> fingers, or four fingers and a thumb.",
+        "answer": "five",
+        "knowledges": [
+            "Human has two hands.",
+            "A human hand has four fingers and a thumb.",
+            "Human has two arms and two legs."
+        ]
+    },
+    {
+        "query": "how do you win at tic-tac-toe get <mask> of your symbols in a row.",
+        "answer": "three",
+        "knowledges": [
+            "A symbol is a X or an O.",
+            "There are nine winning patterns.",
+            "A symbol is a circle or an X. A row is three symbols.",
+            "The winning strategy is to get three of your symbols in a row.",
+            "There are nine winning moves.",
+            "You win at tic-tac-toe by getting three of your symbols in a row.",
+            "Tic-tac-toe is a game played on a 3x3 grid.",
+            "There are nine winning strategies.",
+            "A row is three symbols.",
+            "A player wins when he gets three of his symbols in a row.",
+            "Tic-tac-toe is a game where you get three of your symbols in a row."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "A bradypus torquatus is a kind of mammal. A mammal has four limbs."
+        ]
+    },
+    {
+        "query": "a prime number are divisible by only two numbers, <mask> and itself.",
+        "answer": "one",
+        "knowledges": [
+            "A prime number is divisible by only one and itself."
+        ]
+    },
+    {
+        "query": "reality is three dimensional real life, tv shows portray <mask> dimensional fake life.",
+        "answer": "two",
+        "knowledges": [
+            "The real life is three dimensional.",
+            "There are three dimensions.",
+            "Reality is three dimensional. TV shows are two dimensional.",
+            "Reality is three dimensional. A tv show is a two dimensional fake life.",
+            "A television is a two-dimensional medium.",
+            "The third dimension is time.",
+            "The real life is three dimensional. The tv shows are two dimensional.",
+            "Three dimensional objects can be drawn on a two dimensional surface.",
+            "Television shows are fake.",
+            "There are three dimensions. A television is a two dimensional object.",
+            "A tv show is a kind of fake life.",
+            "Three dimensional.",
+            "Three dimensional objects have length, width, and height.",
+            "Television shows are not real life.",
+            "A movie is a two dimensional portrayal of life. A tv show is a one dimensional portrayal of life.",
+            "TV shows are two dimensional.",
+            "A two-dimensional is a flat surface. A three-dimensional is a solid object.",
+            "Three dimensional is real life. Two dimensional is fake life."
+        ]
+    },
+    {
+        "query": "a game of chess may have <mask> outcomes.",
+        "answer": "three",
+        "knowledges": [
+            "A game of chess has one win and one loss.",
+            "A game of chess has two outcomes.",
+            "A game of chess has one winner and one loser.",
+            "A game of chess has a win, a loss, or a draw."
+        ]
+    },
+    {
+        "query": "<mask> of the seven days of the week is saturday.",
+        "answer": "one",
+        "knowledges": [
+            "The days of the week are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+            "There are seven days in a week.",
+            "The seven days of the week are monday, tuesday, wednesday, thursday, friday, saturday, and sunday.",
+            "There are seven days in a week. Saturday is one of them.",
+            "The days of the week are monday, tuesday, wednesday, thursday, friday, saturday, and sunday."
+        ]
+    },
+    {
+        "query": "a square is a shape with <mask> equally lengthed sides.",
+        "answer": "four",
+        "knowledges": [
+            "A rectangle is a shape with two equal sides."
+        ]
+    },
+    {
+        "query": "with just <mask> days in office, francis michael forde was australia's shortest-serving prime minister.",
+        "answer": "eight",
+        "knowledges": [
+            "Australia is a country. A prime minister is a head of a country.",
+            "Australia is a country.",
+            "The shortest-serving prime minister was John McEwen.",
+            "The shortest-serving prime minister was William McMahon.",
+            "A prime minister is the head of government.",
+            "There are 365 days in a year.",
+            "The shortest-serving prime minister was john howard.",
+            "Australia is a country. Francis Michael Forde was the prime minister of Australia.",
+            "The shortest-serving prime minister was Harold Holt.",
+            "Forde was the shortest-serving prime minister.",
+            "Australia is a country. Prime minister is a kind of politician.",
+            "There is a prime minister in Australia."
+        ]
+    },
+    {
+        "query": "a violin is a stringed instrument with <mask> strings.",
+        "answer": "four",
+        "knowledges": [
+            "Violin is a stringed instrument."
+        ]
+    },
+    {
+        "query": "a kid can count up to <mask> on one hand typically.",
+        "answer": "five",
+        "knowledges": [
+            "Counting is a kind of addition.",
+            "A kid can count up to ten on one hand.",
+            "There are ten fingers on a hand.",
+            "Counting is a process of adding one to a number.",
+            "Counting is done with the fingers.",
+            "Counting is a kind of mental operation."
+        ]
+    },
+    {
+        "query": "fifty is equal to <mask> times ten.",
+        "answer": "five",
+        "knowledges": [
+            "Ten is ten times ten.",
+            "A number is a product of other numbers.",
+            "There are ten fingers on a hand.",
+            "A multiplication is a repeated addition.",
+            "A digit is a symbol for a number. A digit is a number.",
+            "A factorial is the product of all positive integers less than or equal to a given integer.",
+            "50 is five times ten.",
+            "Fifty is five times ten."
+        ]
+    },
+    {
+        "query": "a banjo may have <mask> or five strings.",
+        "answer": "four",
+        "knowledges": [
+            "A banjo has four strings."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "A snowflake is a six-sided object.",
+            "A snowflake is a crystal.",
+            "A snowflake is a kind of crystal."
+        ]
+    },
+    {
+        "query": "boeing and lockheed are <mask> aeronautics companies.",
+        "answer": "two",
+        "knowledges": [
+            "Aeronautics is the study of aircraft.",
+            "Aeronautics is the science of flight.",
+            "Aeronautics is the study of flight."
+        ]
+    },
+    {
+        "query": "a woman owns <mask> cat and two dogs. she needs to feed all three pets everyday.",
+        "answer": "one",
+        "knowledges": [
+            "A cat eats 2 pounds of food everyday. A dog eats 1 pound of food everyday.",
+            "Cats and dogs are pets.",
+            "Pet is an animal. A cat is a pet. A dog is a pet.",
+            "A cat eats once a day. A dog eats twice a day.",
+            "A cat eats three times a day. A dog eats twice a day.",
+            "Cat and dog are animals. Pet is an animal.",
+            "A cat eats fish. A dog eats meat.",
+            "Cat and dog are animals.",
+            "A cat eats more than a dog.",
+            "Cats and dogs are animals. A pet is an animal.",
+            "A cat eats twice as much as a dog."
+        ]
+    },
+    {
+        "query": "we have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "A finger is a limb.",
+            "Human has five fingers."
+        ]
+    },
+    {
+        "query": "a triangle can be drawn from <mask> points.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle can be drawn from three points."
+        ]
+    },
+    {
+        "query": "a classical guitar has <mask> strings.",
+        "answer": "six",
+        "knowledges": [
+            "A classical guitar has six strings."
+        ]
+    },
+    {
+        "query": "aggression can be used if <mask> ore more persons are in conflict.",
+        "answer": "two",
+        "knowledges": [
+            "Aggression is a form of conflict.",
+            "Aggression is a way to solve conflicts.",
+            "Aggression is an act of hostility.",
+            "There are two or more persons in conflict.",
+            "Aggression is an action.",
+            "Aggression is a social behavior.",
+            "A conflict is a fight between two or more persons.",
+            "Aggression is used if two or more persons are in conflict.",
+            "There are three persons in conflict.",
+            "Aggression is a behavior.",
+            "A conflict is a situation in which two or more persons are in opposition.",
+            "Aggression is a kind of behavior.",
+            "Aggression is an action that involves one or more persons.",
+            "Aggression is an act of violence."
+        ]
+    },
+    {
+        "query": "golf courses differ from location to location, but all have <mask> to eighteen holes.",
+        "answer": "nine",
+        "knowledges": [
+            "Golf course has 18 holes.",
+            "Golf course has eighteen holes.",
+            "Golf course has holes."
+        ]
+    },
+    {
+        "query": "triceratops was a dinosaur that had <mask> horns on its head.",
+        "answer": "three",
+        "knowledges": [
+            "Triceratops had three horns.",
+            "A dinosaur is an extinct animal."
+        ]
+    },
+    {
+        "query": "clams have evolved to have <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "Clams have evolved to have shells.",
+            "Clams have a bivalve shell.",
+            "Clams have evolved to have a shell.",
+            "Clams have a shell."
+        ]
+    },
+    {
+        "query": "to strip wire, get a firm grip on wire winding it around your <mask> fingers, place hanging wire in a wire stripper, close and pull down.",
+        "answer": "four",
+        "knowledges": [
+            "Wire is a thin strand of metal. Wire is made of metal.",
+            "A wire stripper is a tool used to strip wire.",
+            "Wire is a kind of metal. A wire stripper is a tool.",
+            "The tool used to strip wire is a wire stripper.",
+            "The wire stripper is a tool for stripping wire.",
+            "To strip wire, one should use a wire stripper.",
+            "Wire is a thin strand of metal. Wire is used to transmit electricity.",
+            "Wire is a kind of metal.",
+            "Wire is a kind of metal. Metal is a kind of substance.",
+            "Wire is a type of metal. Metal is a solid. A wire stripper is a tool.",
+            "To strip wire, get a firm grip on wire winding it around your fingers, place hanging wire in a wire stripper, close and pull down.",
+            "The hand has five fingers."
+        ]
+    },
+    {
+        "query": "motorcycle is a kind of vehicle with <mask> wheels.",
+        "answer": "two",
+        "knowledges": [
+            "A car is a kind of vehicle with four wheels."
+        ]
+    },
+    {
+        "query": "an easel can have <mask> or four legs.",
+        "answer": "three",
+        "knowledges": [
+            "A tripod is a kind of easel."
+        ]
+    },
+    {
+        "query": "there are <mask> continents on our planet earth.",
+        "answer": "seven",
+        "knowledges": [
+            "There are seven continents on earth."
+        ]
+    },
+    {
+        "query": "most motorcycles have <mask> tires.",
+        "answer": "two",
+        "knowledges": [
+            "A motorcycle has two tires."
+        ]
+    },
+    {
+        "query": "usually a can of tennis balls has at least <mask> balls in it.",
+        "answer": "three",
+        "knowledges": [
+            "A can of tennis balls has usually six balls.",
+            "A can of tennis balls has at least 40 balls.",
+            "A can of tennis balls has six balls.",
+            "A can of tennis balls has a dozen balls.",
+            "A can of tennis balls has usually 6 balls.",
+            "A can of tennis balls has 6 balls.",
+            "A can of tennis balls has 36 balls.",
+            "A can of tennis balls has at least two balls.",
+            "A can of tennis balls has usually at least six balls in it.",
+            "A can of tennis balls has 10 balls."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric shape that is made up of <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle is a polygon. A polygon is a geometric shape."
+        ]
+    },
+    {
+        "query": "spiders have <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "Spider has eight legs.",
+            "Spiders have eight legs.",
+            "Arachnids have eight legs."
+        ]
+    },
+    {
+        "query": "a family consists of at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "A family is a group of people."
+        ]
+    },
+    {
+        "query": "we have <mask> toes on each foot.",
+        "answer": "five",
+        "knowledges": [
+            "Human has five toes on each foot.",
+            "A human has five toes on each foot."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> quarks.",
+        "answer": "three",
+        "knowledges": [
+            "A proton is made of three quarks."
+        ]
+    },
+    {
+        "query": "a rectange is a closed shape with <mask> sides at right angles.",
+        "answer": "four",
+        "knowledges": [
+            "A rectangle is a closed shape with four sides at right angles."
+        ]
+    },
+    {
+        "query": "a person has two legs, <mask> ears, two eyes, one mouth and one head.",
+        "answer": "two",
+        "knowledges": [
+            "A person has two ears, two eyes, one mouth and one head."
+        ]
+    },
+    {
+        "query": "presidential elections are held every <mask> years in the us.",
+        "answer": "four",
+        "knowledges": [
+            "The U.S. has a presidential election every four years.",
+            "There are four years in a presidential term.",
+            "The US holds presidential elections every four years.",
+            "The United States has presidential elections every four years.",
+            "An election is held every four years.",
+            "The U.S. has presidential elections every four years.",
+            "A year is three hundred sixty five days.",
+            "Four years.",
+            "The U.S. presidential election is held every four years."
+        ]
+    },
+    {
+        "query": "in a chess game it is very difficult to beat someone in <mask> moves.",
+        "answer": "seven",
+        "knowledges": [
+            "Chess is a game of two players. A game of chess is won by the player who first checkmates the opponent's king.",
+            "A chess game is usually in 50 moves.",
+            "A chess game is usually finished in less than 50 moves.",
+            "Chess is a game played between two players.",
+            "A chess game is won in checkmate.",
+            "Chess is a game of two players. A player can make one move per turn.",
+            "A chess game is typically won in 20 moves.",
+            "Chess is a game of skill. It is very difficult to beat someone in a chess game in a few moves.",
+            "Chess is a game of 32 moves.",
+            "A chess game is finished in about 40 moves.",
+            "Chess is a game of two players.",
+            "Chess is a game of chessboard.",
+            "A chess game is won in 50 moves.",
+            "Chess is a game of two players. A game of chess is won by the player who makes the opponent's king to be in a position where it is impossible to move."
+        ]
+    },
+    {
+        "query": "a car seats usually <mask> to six passengers.",
+        "answer": "two",
+        "knowledges": [
+            "A car can seat two to four people.",
+            "A car can seat five passengers.",
+            "A car has four seats.",
+            "A car can seat four to six people."
+        ]
+    },
+    {
+        "query": "a game of chess includes <mask> bishops.",
+        "answer": "four",
+        "knowledges": [
+            "Chess has two bishops."
+        ]
+    },
+    {
+        "query": "a triangle with <mask> equal sides is an equilateral triangle.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle with three equal sides is an equilateral triangle."
+        ]
+    },
+    {
+        "query": "\"double\" means <mask> times.",
+        "answer": "two",
+        "knowledges": [
+            "\"Double\" means two times.",
+            "Double means two times.",
+            "Double means twice."
+        ]
+    },
+    {
+        "query": "people seem to need at least <mask> hours of sleep a night.",
+        "answer": "six",
+        "knowledges": [
+            "A person needs eight hours of sleep a night.",
+            "Sleep is a natural activity.",
+            "Sleep is a natural state of rest.",
+            "Humans need at least eight hours of sleep a night.",
+            "Sleep is a kind of rest.",
+            "Sleep is a biological process.",
+            "People need sleep.",
+            "A person needs at least eight hours of sleep a night.",
+            "Sleep is a biological process. People are biological organisms.",
+            "People need eight hours of sleep a night.",
+            "Humans need 8 hours of sleep a night."
+        ]
+    },
+    {
+        "query": "a map is a two-dimensional representation of a <mask> dimensional reality.",
+        "answer": "three",
+        "knowledges": [
+            "A map is a representation of a geographic area.",
+            "A map is a representation of a three-dimensional reality.",
+            "A map is a two-dimensional representation of a three-dimensional reality.",
+            "A map is a representation of a place.",
+            "A map is a representation of a territory.",
+            "A map is a representation of a geographic location."
+        ]
+    },
+    {
+        "query": "people have no more than <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "Human has two legs.",
+            "People have two legs.",
+            "A person has two legs."
+        ]
+    },
+    {
+        "query": "barbershop quartet have <mask> voices.",
+        "answer": "four",
+        "knowledges": [
+            "A quartet is a group of four singers."
+        ]
+    },
+    {
+        "query": "a person has <mask> head.",
+        "answer": "one",
+        "knowledges": [
+            "A human has one head."
+        ]
+    },
+    {
+        "query": "a pair of pants is for one third of a <mask> piece suit.",
+        "answer": "three",
+        "knowledges": [
+            "A suit is a set of pants and a jacket.",
+            "A suit is a set of three pieces.",
+            "A suit is a pair of pants and a jacket.",
+            "A suit is a three-piece suit."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "The U.S. zip code has five digits.",
+            "Zip code has five digits.",
+            "A zip code has five digits.",
+            "The first five digits of a zip code is the zip code of the city.",
+            "The zip code in the U.S. has five digits."
+        ]
+    },
+    {
+        "query": "there are <mask> hundred sixty five and one quarter days in an earth year.",
+        "answer": "three",
+        "knowledges": [
+            "There are 365 days in a year.",
+            "A year is 365 days."
+        ]
+    },
+    {
+        "query": "clams are animals with <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "Clam is a kind of animal."
+        ]
+    },
+    {
+        "query": "there are <mask> types of rock.",
+        "answer": "three",
+        "knowledges": [
+            "There are three types of rock: igneous, sedimentary, and metamorphic."
+        ]
+    },
+    {
+        "query": "any closed two-dimensional shape must have at least <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "A circle has at least one side.",
+            "A circle has infinitely many sides.",
+            "A circle has no sides. A rectangle has four sides.",
+            "A circle has one side. A square has four sides.",
+            "A triangle has three sides. A rectangle has four sides."
+        ]
+    },
+    {
+        "query": "trumpet have <mask> valves.",
+        "answer": "three",
+        "knowledges": [
+            "A trumpet has three valves."
+        ]
+    },
+    {
+        "query": "quadrupeds have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "A human is a quadruped.",
+            "A quadruped has four legs.",
+            "Quadrupeds have four legs."
+        ]
+    },
+    {
+        "query": "spring and summer are <mask> of four seasons.",
+        "answer": "two",
+        "knowledges": [
+            "There are four seasons in a year.",
+            "Winter, spring, summer, and fall are four seasons."
+        ]
+    },
+    {
+        "query": "bricks are <mask> sided.",
+        "answer": "six",
+        "knowledges": [
+            "A brick is a cube.",
+            "A brick is a rectangular."
+        ]
+    },
+    {
+        "query": "a woman owns one cat and two dogs. she needs to feed all <mask> pets everyday.",
+        "answer": "three",
+        "knowledges": [
+            "Feeding is an action that takes time. A pet is an animal.",
+            "Pets need to be fed everyday.",
+            "Pet is an animal.",
+            "Feeding is an action. Pet is an object. A woman is a human being.",
+            "A pet is an animal. A woman is a human being.",
+            "Pets are animals. Animals need to be fed.",
+            "Pet is an animal. Human is a pet.",
+            "Animals need food everyday."
+        ]
+    },
+    {
+        "query": "shirts with <mask> buttons are called pullovers.",
+        "answer": "no",
+        "knowledges": [
+            "A shirt is a pullover if it has one button.",
+            "A shirt is a pullover if it has more than one button.",
+            "A shirt is a pullover if it has two buttons."
+        ]
+    },
+    {
+        "query": "most people have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "A human has five fingers.",
+            "Human has five fingers.",
+            "There are five fingers on a hand."
+        ]
+    },
+    {
+        "query": "a decade-long plan is something to do in the next <mask> years.",
+        "answer": "ten",
+        "knowledges": [
+            "A decade is ten years."
+        ]
+    },
+    {
+        "query": "a person has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "A person has two legs."
+        ]
+    },
+    {
+        "query": "there are <mask> major types of guitars: acoustic, electric and bass.",
+        "answer": "three",
+        "knowledges": [
+            "Guitar is a musical instrument.",
+            "Guitar is a type of musical instrument.",
+            "Guitar is a kind of musical instrument."
+        ]
+    },
+    {
+        "query": "almost all people are born with <mask> eyebrows.",
+        "answer": "two",
+        "knowledges": [
+            "Eyebrows are facial hair.",
+            "A human has two eyebrows.",
+            "Eyebrows are hair on the forehead.",
+            "Eyebrows are hairs on the forehead.",
+            "Human has two eyebrows."
+        ]
+    },
+    {
+        "query": "in the olympics, medals are awarded to the <mask> winners of each sport.",
+        "answer": "three",
+        "knowledges": [
+            "The olympics is a competition. A medal is a prize.",
+            "There are two kinds of medals: gold and silver.",
+            "There are two winners in each sport.",
+            "The olympics is a competition between athletes.",
+            "The olympics are held every four years.",
+            "There are 26 sports in the olympics.",
+            "In the olympics, medals are awarded to the first three winners of each sport.",
+            "There are many olympic sports."
+        ]
+    },
+    {
+        "query": "a modern government usually has at least <mask> branches.",
+        "answer": "three",
+        "knowledges": [
+            "A government has three branches: executive, legislative, and judicial.",
+            "A government has executive, legislative, and judicial branches."
+        ]
+    },
+    {
+        "query": "a line is <mask> dimensional.",
+        "answer": "two",
+        "knowledges": [
+            "A line is one-dimensional.",
+            "A line is one dimensional."
+        ]
+    },
+    {
+        "query": "cats have <mask> ears.",
+        "answer": "two",
+        "knowledges": [
+            "Animals have ears. Cat is an animal.",
+            "A cat has two ears.",
+            "Animals have two ears. Cat is an animal."
+        ]
+    },
+    {
+        "query": "a corner has <mask> sides.",
+        "answer": "two",
+        "knowledges": [
+            "A corner is a polygon.",
+            "A corner is a triangle.",
+            "A corner is a vertex of a polygon.",
+            "A triangle has three sides.",
+            "A corner is a point."
+        ]
+    },
+    {
+        "query": "a snowflake has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "A snowflake is a six-sided object.",
+            "A snowflake is a six-sided figure.",
+            "A snowflake is a kind of crystal."
+        ]
+    },
+    {
+        "query": "the <mask> seasons are winter, spring, summer, and autumn.",
+        "answer": "four",
+        "knowledges": [
+            "There are four seasons in a year."
+        ]
+    },
+    {
+        "query": "a woman bought two cookies for her <mask> children. she gives a cookie to each child.",
+        "answer": "two",
+        "knowledges": [
+            "A woman has two children. A child is a kind of person.",
+            "A woman has two children. A child is a human being.",
+            "A woman has two children.",
+            "A woman has two children. A child is a person."
+        ]
+    },
+    {
+        "query": "bobcats have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Bobcat has four legs."
+        ]
+    },
+    {
+        "query": "a point has <mask> dimensions.",
+        "answer": "no",
+        "knowledges": [
+            "A point has no dimensions."
+        ]
+    },
+    {
+        "query": "mammals usually have <mask> limbs.",
+        "answer": "four",
+        "knowledges": [
+            "Human is a mammal."
+        ]
+    },
+    {
+        "query": "squares have <mask> equal sides.",
+        "answer": "four",
+        "knowledges": [
+            "A square has four equal sides."
+        ]
+    },
+    {
+        "query": "date has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "A date is a meeting between two people.",
+            "Date is a kind of people.",
+            "A date is a person.",
+            "A date is a kind of social gathering.",
+            "A date is a kind of party.",
+            "A date is a social event involving two people.",
+            "A person is a kind of date."
+        ]
+    },
+    {
+        "query": "you are likely to find <mask> planets in the solar system.",
+        "answer": "eight",
+        "knowledges": [
+            "There are eight planets in the solar system."
+        ]
+    },
+    {
+        "query": "oxygen molecules can be composed of <mask> atoms of oxygen.",
+        "answer": "two",
+        "knowledges": [
+            "Oxygen is composed of two atoms.",
+            "Oxygen is a diatomic molecule."
+        ]
+    },
+    {
+        "query": "paul is <mask> longer three years old anymore. he is at least four now.",
+        "answer": "no",
+        "knowledges": [
+            "Paul is at least four years old.",
+            "A person is at least four years old.",
+            "A person is a kind of object.",
+            "Paul is three years old.",
+            "A person is three years old for three years.",
+            "A person is older than three years.",
+            "A person's age is the number of years since his birth.",
+            "A person is three years old until the day of his fourth birthday.",
+            "A person is at least one year old.",
+            "A person is a mammal. A mammal is an animal."
+        ]
+    },
+    {
+        "query": "normal dogs have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "A dog is a kind of mammal. A mammal has four limbs.",
+            "A dog is a typical dog."
+        ]
+    },
+    {
+        "query": "almost no animal have <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "There are four legs in a table.",
+            "A human being has two legs.",
+            "No animal has more than four legs.",
+            "Almost no animal has more than four legs.",
+            "Animal has two legs.",
+            "A leg is a limb."
+        ]
+    },
+    {
+        "query": "a person wants to eat <mask> meals a day.",
+        "answer": "three",
+        "knowledges": [
+            "A person eats three meals a day."
+        ]
+    },
+    {
+        "query": "you use <mask> fingers for making a snap.",
+        "answer": "two",
+        "knowledges": [
+            "Human has five fingers.",
+            "A snap is made by using five fingers.",
+            "A snap is made by using the thumb and the index finger.",
+            "There are five fingers in a hand.",
+            "A snap is made by two fingers.",
+            "A snap is made by fingers."
+        ]
+    },
+    {
+        "query": "an animal that has <mask> legs is a fish.",
+        "answer": "no",
+        "knowledges": [
+            "Fish has fins and scales.",
+            "Fish has two fins and two legs.",
+            "Fish has two fins and two gills.",
+            "Fish have fins.",
+            "Fish has two fins and scales.",
+            "Fish has two fins and gills."
+        ]
+    },
+    {
+        "query": "hexagons have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "A hexagon is a polygon with six sides."
+        ]
+    },
+    {
+        "query": "a bicycle has two wheels, one handle bar, and <mask> pedals.",
+        "answer": "two",
+        "knowledges": [
+            "A bicycle has two wheels, one handle bar, and two pedals."
+        ]
+    },
+    {
+        "query": "a painting is a <mask> dimensional piece of art made using paint.",
+        "answer": "two",
+        "knowledges": [
+            "A painting is a two-dimensional piece of art made using paint.",
+            "Painting is a two-dimensional piece of art made using paint."
+        ]
+    },
+    {
+        "query": "there are <mask> years in a decade.",
+        "answer": "ten",
+        "knowledges": [
+            "A decade is ten years."
+        ]
+    },
+    {
+        "query": "love has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "Love is a kind of relationship.",
+            "There are two people in love.",
+            "Love is between two people.",
+            "Love is a relation between two people."
+        ]
+    },
+    {
+        "query": "an average human being has <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "Human has two arms."
+        ]
+    },
+    {
+        "query": "tabby cat have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "A cat has four legs. Tabby is a kind of cat.",
+            "A cat has four legs."
+        ]
+    },
+    {
+        "query": "a restaurant table seats from <mask> to eight people.",
+        "answer": "two",
+        "knowledges": [
+            "A table can seat four people.",
+            "A table can seat two to eight people.",
+            "A table can seat from two to eight people.",
+            "A table can seat one, two, four, or eight people."
+        ]
+    },
+    {
+        "query": "a car has <mask> wheels and an internal combustion engine.",
+        "answer": "four",
+        "knowledges": [
+            "A car has four wheels and an internal combustion engine."
+        ]
+    },
+    {
+        "query": "evergreen trees have <mask> leaves and stay green all year long.",
+        "answer": "no",
+        "knowledges": [
+            "A leaf is a part of a tree. A tree has one or more leaves.",
+            "Evergreen trees have needles and stay green all year long.",
+            "A leaf is a part of a tree. A tree has a trunk and branches.",
+            "A tree is a plant. A plant has leaves.",
+            "A leaf is a part of a tree. A tree has many leaves."
+        ]
+    },
+    {
+        "query": "both composting and burning firewood are <mask> sustainable ways of living.",
+        "answer": "two",
+        "knowledges": [
+            "Composting is a sustainable way of living. Burning firewood is a sustainable way of living.",
+            "There are two sustainable ways of living.",
+            "Sustainable is a kind of living.",
+            "Using firewood is a sustainable way of living.",
+            "Using renewable energy is a sustainable way of living.",
+            "Both are sustainable.",
+            "Burning firewood is not sustainable. Composting is sustainable."
+        ]
+    },
+    {
+        "query": "a human has <mask> legs and two arms.",
+        "answer": "two",
+        "knowledges": [
+            "A human has two arms and two legs."
+        ]
+    },
+    {
+        "query": "arachnids are animals that have <mask> jointed legs, an exoskeleton, and a two-part body.",
+        "answer": "eight",
+        "knowledges": [
+            "Spider is an arachnid.",
+            "Arachnids are animals.",
+            "Arachnids are insects.",
+            "Arachnids are animals. Arachnids have jointed legs, an exoskeleton, and a two-part body."
+        ]
+    },
+    {
+        "query": "there are <mask> monks or nuns in judaism.",
+        "answer": "no",
+        "knowledges": [
+            "There are ten commandments in judaism.",
+            "A monk is a nun.",
+            "There are 10 commandments in judaism.",
+            "There are no monks or nuns in judaism.",
+            "A rabbi is a monk or nun in judaism."
+        ]
+    },
+    {
+        "query": "if you quarter a pie, you will have <mask> pieces of pie.",
+        "answer": "four",
+        "knowledges": [
+            "A quarter of a pie is a piece of pie."
+        ]
+    },
+    {
+        "query": "the bird landed on its <mask> feet.",
+        "answer": "two",
+        "knowledges": [
+            "Birds have two feet.",
+            "A bird has two feet."
+        ]
+    },
+    {
+        "query": "there are <mask> great lakes in north america.",
+        "answer": "five",
+        "knowledges": [
+            "Great lakes are Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario.",
+            "There are five great lakes in North America.",
+            "Great lakes are lakes in north america."
+        ]
+    },
+    {
+        "query": "automobiles have <mask> tires.",
+        "answer": "four",
+        "knowledges": [
+            "A car has four tires.",
+            "Automobile has four tires."
+        ]
+    },
+    {
+        "query": "a sidewalk is used for a place to walk where <mask> cars will drive.",
+        "answer": "no",
+        "knowledges": [
+            "Sidewalk is a place for people to walk."
+        ]
+    },
+    {
+        "query": "humans require <mask> hours of sleep a night.",
+        "answer": "eight",
+        "knowledges": [
+            "Humans require 8 hours of sleep a night.",
+            "A human needs 8 hours of sleep a night.",
+            "Humans require eight hours of sleep a night.",
+            "Humans require at least six hours of sleep a night.",
+            "Sleep is a biological process.",
+            "Sleep is a biological process. Humans are biological beings.",
+            "A human requires 8 hours of sleep a night."
+        ]
+    },
+    {
+        "query": "a chord is any simultaneous playing of <mask> or more notes.",
+        "answer": "three",
+        "knowledges": [
+            "A note is a sound. A chord is a simultaneous playing of three or more notes.",
+            "A musical chord is a simultaneous playing of three or more notes.",
+            "A melody is a chord.",
+            "A chord is a simultaneous playing of three or more notes."
+        ]
+    },
+    {
+        "query": "dice is a kind of cubes with <mask> faces.",
+        "answer": "six",
+        "knowledges": [
+            "A cube is a kind of dice."
+        ]
+    },
+    {
+        "query": "a prison cell has <mask> windows.",
+        "answer": "no",
+        "knowledges": [
+            "A prison cell has one window."
+        ]
+    },
+    {
+        "query": "if you had <mask> eyes you could not watch television.",
+        "answer": "no",
+        "knowledges": [
+            "You have two eyes.",
+            "Eyes can see. Television is a kind of screen.",
+            "A person has two eyes.",
+            "Eyes are used for seeing.",
+            "Human has two eyes.",
+            "A human has two eyes.",
+            "Eyes can see. Television is for seeing.",
+            "The number of eyes is two."
+        ]
+    },
+    {
+        "query": "a dining table can usually have <mask> legs or a pedestal.",
+        "answer": "four",
+        "knowledges": [
+            "A table has four legs. A table has a pedestal.",
+            "A table has four legs. A pedestal is a kind of leg."
+        ]
+    },
+    {
+        "query": "a spider has <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "Spider has eight legs."
+        ]
+    },
+    {
+        "query": "japan is an archipelago with <mask> major and many minor islands.",
+        "answer": "four",
+        "knowledges": [
+            "Japan is an island country."
+        ]
+    },
+    {
+        "query": "elephant have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Elephant is a kind of mammal. Mammals have four legs."
+        ]
+    },
+    {
+        "query": "new zealand is a country with <mask> main islands.",
+        "answer": "two",
+        "knowledges": [
+            "New Zealand has two main islands."
+        ]
+    },
+    {
+        "query": "normally people have <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "Human has two legs.",
+            "Normally, human has two legs.",
+            "People have two legs.",
+            "A person has two legs."
+        ]
+    },
+    {
+        "query": "canberra observatory have <mask> telescopes under domes.",
+        "answer": "four",
+        "knowledges": [
+            "There are two telescopes under domes.",
+            "A telescope is an optical instrument used to observe distant objects.",
+            "Canberra observatory has three telescopes.",
+            "There are four telescopes under domes.",
+            "Canberra observatory has one telescope under a dome.",
+            "Canberra observatory has two telescopes."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colors.",
+        "answer": "seven",
+        "knowledges": [
+            "Rainbow has seven colors.",
+            "A rainbow has seven colors."
+        ]
+    },
+    {
+        "query": "one whale plus one whale plus <mask> whale equals three whales.",
+        "answer": "one",
+        "knowledges": [
+            "Two plus two is four.",
+            "1+1+1=3.",
+            "Addition is commutative.",
+            "A group of whales is called a pod.",
+            "One plus one plus one equals three.",
+            "A whale is a mammal."
+        ]
+    },
+    {
+        "query": "a checkbook holder doesn't hold checks if there are <mask> checks to hold.",
+        "answer": "no",
+        "knowledges": [
+            "A checkbook holder holds checks.",
+            "A checkbook holder is for holding checks.",
+            "A checkbook holder is a kind of wallet. A wallet holds money.",
+            "A checkbook holder is a bank account. A bank account has zero checks.",
+            "A checkbook holder is a container for checks."
+        ]
+    },
+    {
+        "query": "each human hand has <mask> digits.",
+        "answer": "ten",
+        "knowledges": [
+            "A human hand has five digits.",
+            "Human has five fingers on each hand."
+        ]
+    },
+    {
+        "query": "once every <mask> years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "Leap year is every four years.",
+            "A year is 365 days."
+        ]
+    },
+    {
+        "query": "<mask> dimensions are length, width and height.",
+        "answer": "three",
+        "knowledges": [
+            "Length, width and height are dimensions."
+        ]
+    },
+    {
+        "query": "many college students earn a degree in <mask> years.",
+        "answer": "four",
+        "knowledges": [
+            "A college degree is usually awarded in four years.",
+            "A degree is a certificate. A degree is an academic award.",
+            "Four years is the typical time to earn a bachelor's degree.",
+            "A degree is a kind of certificate. A college student is a kind of student.",
+            "Four years is the standard time to earn a bachelor's degree.",
+            "A college degree is usually earned in four years.",
+            "A degree is a measure of education. A degree is awarded after four years of study.",
+            "A college degree is usually four years.",
+            "A college degree is four years.",
+            "A degree is a kind of academic award. A college is a kind of school.",
+            "A degree is a qualification awarded by a college or university.",
+            "A degree is a qualification. A degree is a kind of qualification.",
+            "It takes four years to earn a bachelor's degree.",
+            "A degree is a qualification. A degree is awarded by a college or university.",
+            "Four years is the standard length of a college degree.",
+            "A degree is a type of credential. A bachelor's degree is a type of degree."
+        ]
+    },
+    {
+        "query": "a chicken has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "Chicken has two legs."
+        ]
+    },
+    {
+        "query": "the <mask> parties in american politics are the democrats and the republicans.",
+        "answer": "two",
+        "knowledges": [
+            "There are two parties in American politics.",
+            "The Democratic Party and the Republican Party are the two major parties in the United States.",
+            "The parties in American politics are the Democrats and the Republicans.",
+            "The Democrats and the Republicans are the two major parties in American politics.",
+            "The two parties in American politics are the Democrats and the Republicans."
+        ]
+    },
+    {
+        "query": "healthy human beings have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "Human has five fingers."
+        ]
+    },
+    {
+        "query": "pregnancy lasts approximately <mask> or ten months.",
+        "answer": "nine",
+        "knowledges": [
+            "Pregnancy lasts approximately ten months.",
+            "Pregnancy lasts nine months."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colours.",
+        "answer": "seven",
+        "knowledges": [
+            "A rainbow has seven colours.",
+            "Rainbow has seven colours."
+        ]
+    },
+    {
+        "query": "human beings have only <mask> neck bones.",
+        "answer": "seven",
+        "knowledges": [
+            "Human has seven cervical vertebrae."
+        ]
+    },
+    {
+        "query": "a conventional bicycle has <mask> wheels, two pedals, and no motor.",
+        "answer": "two",
+        "knowledges": [
+            "A unicycle has one wheel, two pedals, and no motor.",
+            "A bicycle has two wheels, two pedals, and no motor."
+        ]
+    },
+    {
+        "query": "a room consists of no less than <mask> walls, a floor, and a ceiling.",
+        "answer": "four",
+        "knowledges": [
+            "A room has four walls, a floor, and a ceiling."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "The U.S. zip code has five digits.",
+            "Zip code has five digits.",
+            "A zip code has five digits.",
+            "The first five digits of a zip code are always the same.",
+            "The first five digits of a zip code is the zip code of the city.",
+            "The zip code in the U.S. has five digits."
+        ]
+    },
+    {
+        "query": "index card cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "A card cabinet is a rectangular. A rectangular has 90 degree angles.",
+            "A 90 degree angle is a right angle.",
+            "A square is a 90 degree angle. A rectangle is a 90 degree angle.",
+            "A right angle is 90 degrees.",
+            "A square is a 90 degree angle.",
+            "A card cabinet is a rectangular. A rectangle has 90 degree angles.",
+            "A card cabinet is a box. A box has 90 degree angles.",
+            "A card cabinet is a kind of cabinet. A card cabinet has 90 degree angles."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal points of the compass are north, south, east and west.",
+        "answer": "four",
+        "knowledges": [
+            "The four cardinal points are north, south, east and west.",
+            "The cardinal points of the compass are north, south, east and west.",
+            "There are four cardinal points of the compass."
+        ]
+    },
+    {
+        "query": "twins are <mask> identical children.",
+        "answer": "two",
+        "knowledges": [
+            "Identical twins are identical.",
+            "Identical twins are genetically identical.",
+            "Identical twins are 100% identical."
+        ]
+    },
+    {
+        "query": "common table have <mask> side legs.",
+        "answer": "four",
+        "knowledges": [
+            "A table has four legs."
+        ]
+    },
+    {
+        "query": "a cube has <mask> regular vertices.",
+        "answer": "eight",
+        "knowledges": [
+            "A cube has 8 vertices."
+        ]
+    },
+    {
+        "query": "a typical stairway has <mask> or more steps going up or down.",
+        "answer": "two",
+        "knowledges": [
+            "A stairway has more than one step.",
+            "A flight of stairs has two or more steps.",
+            "A flight of stairs has more than one step.",
+            "A stairway has one or more steps.",
+            "A stairway has two or more steps going up or down.",
+            "A stairway has at least one step going up or down."
+        ]
+    },
+    {
+        "query": "a water molecule has <mask> hydrogen atoms.",
+        "answer": "two",
+        "knowledges": [
+            "A water molecule has two hydrogen atoms."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric figure with <mask> distinct sides.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle has three sides."
+        ]
+    },
+    {
+        "query": "the <mask> senses are sight, hearing, touch, smell and taste.",
+        "answer": "five",
+        "knowledges": [
+            "The five senses are sight, hearing, touch, smell and taste.",
+            "Human has five senses.",
+            "There are five senses."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> clawed toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "A bradypus torquatus is a kind of mammal. A mammal has four limbs."
+        ]
+    },
+    {
+        "query": "sarah was pregnant for around <mask> months in total.",
+        "answer": "nine",
+        "knowledges": [
+            "A human pregnancy lasts around 9 months.",
+            "A human pregnancy lasts for 9 months.",
+            "A pregnancy lasts for 9 months.",
+            "A pregnancy lasts around 9 months.",
+            "Pregnancy lasts for 9 months."
+        ]
+    },
+    {
+        "query": "people have <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "Human has two arms."
+        ]
+    },
+    {
+        "query": "most bicycles have <mask> wheels arranged in tandem.",
+        "answer": "two",
+        "knowledges": [
+            "A tandem is a bicycle with two wheels in front and one in back."
+        ]
+    },
+    {
+        "query": "people usually have <mask> toes on each of their feet.",
+        "answer": "five",
+        "knowledges": [
+            "Human has five toes on each foot.",
+            "A human has five toes on each foot."
+        ]
+    },
+    {
+        "query": "a woman owns three cats and gives one of them away to her sister. she now owns only <mask> cats.",
+        "answer": "two",
+        "knowledges": [
+            "The sister has one cat.",
+            "The sister owns one cat.",
+            "The woman owns three cats. The woman gives one cat to her sister. The woman now owns two cats.",
+            "A cat is an animal. A woman is a human being.",
+            "Cats are a kind of animal.",
+            "Cats are owned by people. A woman is a person.",
+            "The woman owns three cats.",
+            "Cats are owned by people."
+        ]
+    },
+    {
+        "query": "a ring has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "A ring is a kind of polygon.",
+            "A ring is a circle.",
+            "A ring is a polygon."
+        ]
+    },
+    {
+        "query": "jumping rope requires <mask> less than one foot.",
+        "answer": "no",
+        "knowledges": [
+            "A jump rope is a rope. A rope is a length of cord.",
+            "Jumping rope requires a person to move a rope with their feet.",
+            "Jumping rope requires a foot.",
+            "Jumping rope requires two feet.",
+            "A rope is a circle.",
+            "A jump rope is a rope that is jumped on.",
+            "A jump rope is a rope. A rope is a long string.",
+            "Jumping rope requires one foot.",
+            "A rope is less than one foot."
+        ]
+    },
+    {
+        "query": "one dollar can be represented by <mask> dimes.",
+        "answer": "ten",
+        "knowledges": [
+            "A dime is one tenth of a dollar.",
+            "A dime is ten cents."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> independent quarks.",
+        "answer": "three",
+        "knowledges": [
+            "A proton is made of three quarks."
+        ]
+    },
+    {
+        "query": "antelope have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Antelope is a kind of mammal. Mammals have four legs.",
+            "Antelope is a kind of mammal."
+        ]
+    },
+    {
+        "query": "a triangle has <mask> distinct corners.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle has three corners."
+        ]
+    },
+    {
+        "query": "a professor in math is answering a question. he answers two could be divided by <mask> plus one.",
+        "answer": "one",
+        "knowledges": [
+            "The answer is 1.",
+            "Division is an operation that takes two numbers and produces a third.",
+            "The professor knows the rule of division.",
+            "There are two answers for this question.",
+            "Math is a field of study. A professor is a person who teaches.",
+            "The answer is two.",
+            "The professor is answering a question. He is not doing anything else.",
+            "There are two possible answers: 1 and 2.",
+            "Math is a subject. A professor is a person.",
+            "The professor is a mathematician.",
+            "A professor in math is answering a question. He answers two could be divided by three plus one.",
+            "The professor is using the order of operations."
+        ]
+    },
+    {
+        "query": "thirty usually are <mask> more than twenty.",
+        "answer": "ten",
+        "knowledges": [
+            "30 is usually more than 20.",
+            "Numbers are comparable.",
+            "Numbers are objects. 30 is more than 20.",
+            "There are two more than twenty.",
+            "Numbers are usually greater than zero.",
+            "Thirty is greater than twenty.",
+            "The number of things are often more than the number of things.",
+            "There are ten fingers and ten toes.",
+            "30 is greater than 20.",
+            "30 is more than 20.",
+            "There are three tens in thirty.",
+            "Numbers can be added.",
+            "Numbers are usually less than numbers.",
+            "There are ten more than twenty.",
+            "Thirty is usually more than twenty."
+        ]
+    },
+    {
+        "query": "a simple tripod has <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "A tripod has three legs."
+        ]
+    },
+    {
+        "query": "index card storage cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "An angle is measured in degrees. A right angle is 90 degrees.",
+            "A card is a 90 degree angle. A storage cabinet is a card.",
+            "A card is a rectangle. A rectangle has four 90 degree angles.",
+            "A 90 degree angle is a right angle.",
+            "A card storage cabinet is a rectangle.",
+            "A right angle is 90 degrees.",
+            "A square is a 90 degree angle.",
+            "A 90 degree angle is an angle of 1/4 turn.",
+            "An index card is a rectangular. A 90 degree angle is a right angle.",
+            "A card is a rectangle. A card is a parallelogram.",
+            "A 90 degree angle is an angle that is 90 degrees."
+        ]
+    },
+    {
+        "query": "phobos orbits mars about once every <mask> square hours, much faster than mars' rotation.",
+        "answer": "seven",
+        "knowledges": [
+            "Mars has a rotation period of 24 hours.",
+            "Mars has a day of 24 hours."
+        ]
+    },
+    {
+        "query": "a pentagon has <mask> sides.",
+        "answer": "five",
+        "knowledges": [
+            "A pentagon is a polygon with five sides."
+        ]
+    },
+    {
+        "query": "winning a chess game in <mask> moves is very impressive.",
+        "answer": "seven",
+        "knowledges": [
+            "There are only a few number of moves in a chess game.",
+            "A game of chess is won in 50 moves.",
+            "There are sixty four moves in a chess game.",
+            "A chess game is won in a maximum of thirty moves.",
+            "There are 20 legal moves in a chess game.",
+            "There are twenty legal moves in a chess game.",
+            "A chess game is won in 8 moves.",
+            "There are 64 squares on a chess board.",
+            "A game of chess is won in checkmate.",
+            "A chess game is played in 64 moves.",
+            "A chess game is won in a maximum of fifty moves.",
+            "A chess game is won in the minimum number of moves.",
+            "Chess is a game of two players.",
+            "Chess is a game played on a board with 64 squares.",
+            "There are a total of 20 legal moves in a chess game."
+        ]
+    },
+    {
+        "query": "one in <mask> also means a quarter.",
+        "answer": "four",
+        "knowledges": [
+            "A quarter is one-fourth.",
+            "One is an integer. One in also means a quarter.",
+            "One is a number. A quarter is a number.",
+            "One is an integer. One also means a quarter.",
+            "One in three also means a quarter.",
+            "One is one.",
+            "A quarter is one in four.",
+            "There are four quarters in a dollar.",
+            "One in twenty also means a quarter.",
+            "A quarter is one fourth.",
+            "One is an integer. One in four also means a quarter.",
+            "One in four also means a quarter.",
+            "One is a number. One also means a quarter."
+        ]
+    },
+    {
+        "query": "the number six looks like a <mask> upside down.",
+        "answer": "nine",
+        "knowledges": [
+            "A number is a symbol.",
+            "The number six looks like a \"6\" upside down.",
+            "A six is a hexagon.",
+            "The number six looks like a three with a horizontal bar.",
+            "The number six looks like a six.",
+            "The number six looks like a capital letter S.",
+            "The number six looks like a hexagon.",
+            "A number is a set of digits. The number six is a set of digits.",
+            "A six is a six.",
+            "A six is a digit."
+        ]
+    },
+    {
+        "query": "a lobster lives on the ocean floor and has <mask> functional pairs of legs.",
+        "answer": "five",
+        "knowledges": [
+            "Lobster has two pairs of legs.",
+            "Lobster has ten legs."
+        ]
+    },
+    {
+        "query": "badminton is a game played by two or <mask> male players.",
+        "answer": "four",
+        "knowledges": [
+            "Badminton is a game played by two male players.",
+            "Badminton is a game played by two or four players."
+        ]
+    },
+    {
+        "query": "a leg table is a flat surface supported by <mask> or more legs.",
+        "answer": "three",
+        "knowledges": [
+            "A table is a flat surface supported by four legs."
+        ]
+    },
+    {
+        "query": "earth have <mask> populated continents.",
+        "answer": "six",
+        "knowledges": [
+            "Earth has three populated continents.",
+            "Earth has 7 continents.",
+            "There are seven populated continents.",
+            "Earth has seven continents."
+        ]
+    },
+    {
+        "query": "most people in the u.s. works <mask> consecutive hours in a business day.",
+        "answer": "eight",
+        "knowledges": [
+            "The typical work day is 8 hours.",
+            "The work day is eight hours.",
+            "A business day is eight hours.",
+            "A typical work day is 8 hours.",
+            "Most people work 8 hours a day.",
+            "The average work day is 8 hours.",
+            "People work 8 hours a day."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> different sides.",
+        "answer": "six",
+        "knowledges": [
+            "Snowflake has six sides."
+        ]
+    },
+    {
+        "query": "a wall divides <mask> room into two rooms.",
+        "answer": "one",
+        "knowledges": [
+            "A wall divides a room into two rooms."
+        ]
+    },
+    {
+        "query": "a convex hexagon is a closed shape with <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "A hexagon is a convex polygon."
+        ]
+    },
+    {
+        "query": "a large bouquet of flowers means a group of more than <mask> flowers.",
+        "answer": "two",
+        "knowledges": [
+            "A bouquet is a group of flowers."
+        ]
+    },
+    {
+        "query": "many buddhists try to have <mask> desires.",
+        "answer": "no",
+        "knowledges": [
+            "Buddhists try to have few desires.",
+            "Buddhists try to have no desires.",
+            "Desire is a strong feeling of wanting.",
+            "Desire is a kind of emotion.",
+            "Buddhists try to get rid of desire.",
+            "A desire is a want.",
+            "A desire is a wish.",
+            "Desire is a mental state."
+        ]
+    },
+    {
+        "query": "a door has <mask> different sides.",
+        "answer": "four",
+        "knowledges": [
+            "A door has two sides."
+        ]
+    },
+    {
+        "query": "scallops are animals that have <mask> internal shells and live on the ocean floor.",
+        "answer": "two",
+        "knowledges": [
+            "Scallops are mollusks.",
+            "Scallops are bivalves."
+        ]
+    },
+    {
+        "query": "nothing with legs can stand on <mask> legs.",
+        "answer": "zero",
+        "knowledges": [
+            "A human can stand on two legs.",
+            "A chair has four legs.",
+            "An animal has four legs.",
+            "A table has four legs."
+        ]
+    },
+    {
+        "query": "many jeeps are <mask> wheeled vehicles.",
+        "answer": "four",
+        "knowledges": [
+            "A jeep is a wheeled vehicle.",
+            "A jeep is a four-wheeled vehicle."
+        ]
+    },
+    {
+        "query": "there are <mask> basic types of forces in the universe.",
+        "answer": "four",
+        "knowledges": [
+            "There are four fundamental forces in the universe: gravity, electromagnetism, strong interaction, and weak interaction.",
+            "There are four fundamental forces in the universe: gravitational, electromagnetic, strong nuclear, and weak nuclear."
+        ]
+    },
+    {
+        "query": "a human being has <mask> functional fingers on each hand.",
+        "answer": "five",
+        "knowledges": [
+            "Human has five fingers on each hand."
+        ]
+    },
+    {
+        "query": "a kangaroo kangaroo rat has <mask> legs for jumping.",
+        "answer": "two",
+        "knowledges": [
+            "Kangaroo rat has two legs for jumping."
+        ]
+    },
+    {
+        "query": "a standard dice has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "A dice has six sides.",
+            "A die has six sides.",
+            "A standard dice has six sides."
+        ]
+    },
+    {
+        "query": "once every <mask> odd years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "There are 366 days in a year.",
+            "Every four years is a leap year.",
+            "There are leap years every four years.",
+            "A year is 365 days."
+        ]
+    },
+    {
+        "query": "a normal cube has <mask> corners.",
+        "answer": "eight",
+        "knowledges": [
+            "A cube has 8 corners.",
+            "A cube has eight corners."
+        ]
+    },
+    {
+        "query": "having sex is usually an activity for <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "Sex is an activity for adults.",
+            "Having sex is an activity for adults.",
+            "Sex is usually an activity for adults."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+        "answer": "seven",
+        "knowledges": [
+            "The virtues are wisdom, courage, temperance, justice, and faith.",
+            "The cardinal virtues are wisdom, courage, temperance, justice, and faith.",
+            "The seven virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+            "The virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+            "There are seven virtues.",
+            "The cardinal virtues are the four virtues listed.",
+            "The cardinal virtues are prudence, justice, fortitude, temperance, and faith.",
+            "The cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+            "The virtues are the qualities of being human.",
+            "The virtues are charity, diligence, justice, kindness, humility, patience, and wisdom.",
+            "The cardinal virtues are the greatest virtues."
+        ]
+    },
+    {
+        "query": "if it does not have <mask> legs then it is not an insect.",
+        "answer": "six",
+        "knowledges": [
+            "Insect has six legs."
+        ]
+    },
+    {
+        "query": "a grid is a regular pattern in <mask> spatial dimensions.",
+        "answer": "two",
+        "knowledges": [
+            "A square is a grid in two dimensions. A cube is a grid in three dimensions.",
+            "A grid is a regular pattern in two spatial dimensions.",
+            "A cube is a grid in 3D. A square is a grid in 2D.",
+            "A plane is a grid in two spatial dimensions. A cube is a grid in three spatial dimensions.",
+            "A 2D grid is a regular pattern in 2D spatial dimensions. A 3D grid is a regular pattern in 3D spatial dimensions.",
+            "A two-dimensional array is a grid. A three-dimensional array is a grid.",
+            "A two-dimensional grid is a pattern in two spatial dimensions.",
+            "A square is a grid in two dimensions. A hexagon is a grid in three dimensions.",
+            "A two-dimensional grid is a regular pattern in two spatial dimensions."
+        ]
+    },
+    {
+        "query": "all triangles have <mask> curved sides and three corners.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle has three curved sides and three corners."
+        ]
+    },
+    {
+        "query": "a set of standard poker card deck has fifty <mask> cards in four suites.",
+        "answer": "two",
+        "knowledges": [
+            "A standard poker card deck has fifty cards.",
+            "A standard deck of cards has four suits.",
+            "A standard deck of cards has four suits and fifty cards."
+        ]
+    },
+    {
+        "query": "a pentagram has <mask> cardinal points in total.",
+        "answer": "ten",
+        "knowledges": [
+            "A pentagon has five cardinal points.",
+            "A pentagon has five points."
+        ]
+    },
+    {
+        "query": "liquid water becomes solid at a temperature of <mask> degrees centigrade, or 32 degrees fahrenheit.",
+        "answer": "zero",
+        "knowledges": [
+            "Water freezes at 0 degrees centigrade."
+        ]
+    },
+    {
+        "query": "airplanes have <mask> separate wings.",
+        "answer": "two",
+        "knowledges": [
+            "An airplane has two wings.",
+            "Planes have two wings.",
+            "A biplane has two wings. A triplane has three wings.",
+            "A plane has two wings.",
+            "A biplane has two wings. A monoplane has one wing.",
+            "A wing is a part of an airplane."
+        ]
+    },
+    {
+        "query": "a round ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "A sphere is a round ball."
+        ]
+    },
+    {
+        "query": "a typical conservation usually needs at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "Conservation usually needs at least two people."
+        ]
+    },
+    {
+        "query": "<mask> of the largest national parks are in alaska.",
+        "answer": "seven",
+        "knowledges": [
+            "There are six national parks in Alaska.",
+            "Alaska has six national parks.",
+            "Alaska has five national parks.",
+            "There are five national parks in Alaska.",
+            "Alaska has three national parks.",
+            "Alaska has Denali National Park, Gates of the Arctic National Park, and Wrangell-St. Elias National Park."
+        ]
+    },
+    {
+        "query": "a tennis ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "A tennis ball is a sphere."
+        ]
+    },
+    {
+        "query": "a person's hand generally has <mask> normal fingers, including the thumb.",
+        "answer": "five",
+        "knowledges": [
+            "Human has five fingers.",
+            "A hand has five fingers.",
+            "A human has five fingers."
+        ]
+    },
+    {
+        "query": "a french horn has <mask> keys.",
+        "answer": "three",
+        "knowledges": [
+            "A piano has 88 keys.",
+            "A french horn has three keys."
+        ]
+    }
+]

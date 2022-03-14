@@ -1,0 +1,19 @@
+Fill in the mask in the input with a number word. Examples:
+
+Input: penguins have <mask> wings.
+Answer: two
+
+Input: a parallelogram has <mask> sides.
+Answer: four
+
+Input: there are <mask> feet in a yard.
+Answer: three
+
+Input: water can exist in <mask> states.
+Answer: three
+
+Input: a typical human being has <mask> limbs.
+Answer: four
+
+Input: {question}
+Answer:

@@ -1,0 +1,19 @@
+Answer the question in the input. Examples:
+
+Input: Google Maps and other highway and street GPS services have replaced what?
+Answer: atlas
+
+Input: The fox walked from the city into the forest, what was it looking for?
+Answer: natural habitat
+
+Input: You can share files with someone if you have a connection to a what?
+Answer: computer network
+
+Input: Too many people want exotic snakes.  The demand is driving what to carry them?
+Answer: pet shops
+
+Input: The body guard was good at his duties, he made the person who hired him what?
+Answer: feel safe
+
+Input: {question}
+Answer:

@@ -1,0 +1,19 @@
+Answer whether the statement in the input is true. Examples:
+
+Input: Greece is larger than mexico.
+Answer: no
+
+Input: Glasses always fog up.
+Answer: no
+
+Input: A fish is capable of thinking.
+Answer: yes
+
+Input: A common effect of smoking lots of cigarettes in one's lifetime is a higher than normal chance of getting lung cancer.
+Answer: yes
+
+Input: A rock is the same size as a pebble.
+Answer: no
+
+Input: {question}
+Answer:
