@@ -53,8 +53,6 @@ def score_for_input(args, tokenizer, model, query, cands, knowledge=None):
             loss *= labels.size(1)
         score = -loss
         scores.append(score)
-    if args.task == 'csqa2' and args.model_ckpt is None:
-        scores[1] += 7
     scores = torch.tensor(scores)
     probs = torch.softmax(scores, dim=0)
     return scores, probs
