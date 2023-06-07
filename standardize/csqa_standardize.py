@@ -1,9 +1,9 @@
 import json
 
 split2path = {
-    'train': 'data/csqa/raw/train_rand_split.jsonl',
-    'dev': 'data/csqa/raw/dev_rand_split.jsonl',
-    'test': 'data/csqa/raw/test_rand_split_no_answers.jsonl',
+    'train': '../data/csqa/raw/train_rand_split.jsonl',
+    'dev': '../data/csqa/raw/dev_rand_split.jsonl',
+    'test': '../data/csqa/raw/test_rand_split_no_answers.jsonl',
 }
 
 for split, path in split2path.items():
@@ -18,6 +18,6 @@ for split, path in split2path.items():
                 answer = cands[ord(js['answerKey']) - ord('A')]
                 item['answer'] = answer
             ds.append(item)
-    with open('data/csqa/%s.csqa.json' % split, 'w') as f:
+    with open('../data/csqa_test/%s.csqa.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 

@@ -52,14 +52,20 @@ Output: A long tail can be used for _ by an animal.
 Input: %s
 Output:'''
 
+import os,sys,time
 import json
-from utils.gpt3_generation import request
 from tqdm import tqdm
 
-with open('data/qasc/test.qasc.json') as f:
+sys.path.append(
+    os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir)))
+
+from utils.gpt3_generation import request
+
+with open('../data/qasc/test.qasc.json') as f:
     ds = json.load(f)
 
 for item in tqdm(ds):
+    time.sleep(2)
     prompt = prefix % item['query']
     transformed_query = request(prompt, temperature=0.0)[0]
     if transformed_query.count('_') == 1:
@@ -67,6 +73,6 @@ for item in tqdm(ds):
     else:
         print(item['query'])
 
-with open('data/qasc/test.qasc_infill.json', 'w') as f:
+with open('../data/qasc_test/test.qasc_infill.json', 'w') as f:
     json.dump(ds, f, indent=4)
 
