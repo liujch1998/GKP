@@ -1,2 +1,4 @@
 **/__pycache__/
 .idea
+data/**/**/raw
+data/*_test
