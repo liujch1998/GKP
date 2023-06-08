@@ -18,6 +18,6 @@ for split, path in split2path.items():
                 answer = cands[ord(js['answerKey']) - ord('A')]
                 item['answer'] = answer
             ds.append(item)
-    with open('../data/csqa_test/%s.csqa.json' % split, 'w') as f:
+    with open('../data/csqa/%s.csqa.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 

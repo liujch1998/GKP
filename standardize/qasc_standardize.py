@@ -36,6 +36,6 @@ for split, path in split2path.items():
                 combinedfacts.append(process(js['combinedfact'], capitalize=True, add_period=True))
             item['combinedfacts'] = combinedfacts
             ds.append(item)
-    with open('../data/qasc_test/%s.qasc.json' % split, 'w') as f:
+    with open('../data/qasc/%s.qasc.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 

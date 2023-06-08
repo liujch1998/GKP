@@ -73,6 +73,6 @@ for item in tqdm(ds):
     else:
         print(item['query'])
 
-with open('../data/qasc_test/test.qasc_infill.json', 'w') as f:
+with open('../data/qasc/test.qasc_infill.json', 'w') as f:
     json.dump(ds, f, indent=4)
 

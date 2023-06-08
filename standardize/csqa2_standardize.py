@@ -32,6 +32,6 @@ for split, path in split2path.items():
             else:
                 item['topic_prompt'] = None
             ds.append(item)
-    with open('../data/csqa2_test/%s.csqa2.json' % split, 'w') as f:
+    with open('../data/csqa2/%s.csqa2.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 
