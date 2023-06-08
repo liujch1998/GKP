@@ -65,7 +65,6 @@ with open('../data/qasc/test.qasc.json') as f:
     ds = json.load(f)
 
 for item in tqdm(ds):
-    time.sleep(2)
     prompt = prefix % item['query']
     transformed_query = request(prompt, temperature=0.0)[0]
     if transformed_query.count('_') == 1:
