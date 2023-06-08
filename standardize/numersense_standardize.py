@@ -1,10 +1,10 @@
 import json
 
 split2path = {
-    'train': '../data/numersense/raw/train.masked.tsv',
-    'validation': '../data/numersense/raw/validation.masked.tsv',
-    'test.all': '../data/numersense/raw/test.all.masked.txt',
-    'test.core': '../data/numersense/raw/test.core.masked.txt',
+    'train': 'data/numersense/raw/train.masked.tsv',
+    'validation': 'data/numersense/raw/validation.masked.tsv',
+    'test.all': 'data/numersense/raw/test.all.masked.txt',
+    'test.core': 'data/numersense/raw/test.core.masked.txt',
 }
 
 for split, path in split2path.items():
@@ -17,6 +17,6 @@ for split, path in split2path.items():
             else:
                 query = line.strip('\n').strip(' ')
                 ds.append({'query': query})
-    with open('../data/numersense/%s.json' % split, 'w') as f:
+    with open('data/numersense/%s.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 

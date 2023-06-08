@@ -1,9 +1,9 @@
 import json
 
 split2path = {
-    'train': '../data/csqa2/raw/CSQA2_train.json',
-    'dev': '../data/csqa2/raw/CSQA2_dev.json',
-    'test': '../data/csqa2/raw/CSQA2_test_no_answers.json',
+    'train': 'data/csqa2/raw/CSQA2_train.json',
+    'dev': 'data/csqa2/raw/CSQA2_dev.json',
+    'test': 'data/csqa2/raw/CSQA2_test_no_answers.json',
 }
 
 def process(s):
@@ -32,6 +32,6 @@ for split, path in split2path.items():
             else:
                 item['topic_prompt'] = None
             ds.append(item)
-    with open('../data/csqa2/%s.csqa2.json' % split, 'w') as f:
+    with open('data/csqa2/%s.csqa2.json' % split, 'w') as f:
         json.dump(ds, f, indent=4)
 

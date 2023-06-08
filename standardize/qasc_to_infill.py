@@ -61,7 +61,7 @@ sys.path.append(
 
 from utils.gpt3_generation import request
 
-with open('../data/qasc/test.qasc.json') as f:
+with open('data/qasc/test.qasc.json') as f:
     ds = json.load(f)
 
 for item in tqdm(ds):
@@ -72,6 +72,6 @@ for item in tqdm(ds):
     else:
         print(item['query'])
 
-with open('../data/qasc/test.qasc_infill.json', 'w') as f:
+with open('data/qasc/test.qasc_infill.json', 'w') as f:
     json.dump(ds, f, indent=4)
 
