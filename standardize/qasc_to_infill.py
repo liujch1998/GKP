@@ -52,7 +52,7 @@ Output: A long tail can be used for _ by an animal.
 Input: %s
 Output:'''
 
-import os,sys,time
+import os,sys
 import json
 from tqdm import tqdm
 
