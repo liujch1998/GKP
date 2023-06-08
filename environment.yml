@@ -10,3 +10,4 @@ dependencies:
   - numpy
   - pandas
   - tqdm
+  - sentencepiece
